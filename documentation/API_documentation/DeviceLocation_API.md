@@ -3,7 +3,7 @@ The Location API provides programmable interface for developers and other users 
 if given user equipment is within the given range(radial distance) from the given coordinates(longitude, latitude) on the Earth.
 ## 1\. Introduction
 Logistics, gaming and many more sectors of industry define a need of getting user real location. Moreover, some of them 
-need this functianolity to prevent frauds - to compare GPS location with real user equipment one.
+need this functionality to prevent frauds - to compare GPS location with real user equipment one.
 <img src="./resources/Location_overview.png" alt="LOC_VER" title="Location verification">
 
 ## 2\. Quick Start
